@@ -231,4 +231,12 @@ export const friendsInfo: Friend[] = [
     tag: "DLUT,大雪深埋",
     color: "sky",
   },
+   {
+    avatar: "https://avatars.githubusercontent.com/u/145252819?s=96&v=4",
+    name: "木乔",
+    title: "Shannna~",
+    link: "https://shannna.online/",
+    tag: "Bytedancer&Gopher&AGI",
+    color: "sky",
+  },
 ];
